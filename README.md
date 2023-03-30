@@ -3,7 +3,7 @@
   <br />
 </h1>
 
-![screenshot](public/images/image_processing20220419-31825-1yzr3x9.png)
+![Landing](https://user-images.githubusercontent.com/128102810/228889584-9b6b06da-79ca-4c52-ad99-2ebd64acdd62.gif)
 
 **Coursespace** is a free landing page template built on top of Material UI and fully coded in **React**.
 Simple & light is designed to provide all the basic components using the `sx` prop for a developer need to create landing page for Online Course product.
